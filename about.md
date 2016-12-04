@@ -30,10 +30,10 @@ Full time
 
 ## Skills
 
-| Software         | | Languages        |
-|------------------| |------------------|
-| Microsoft Office | | Swedish (native) |
-| Photoshop        | | English (fluent) |
+| Software         |    | Languages        |
+|------------------|----|------------------|
+| Microsoft Office |    | Swedish (native) |
+| Photoshop        |    | English (fluent) |
 | Illustrator
 | Indesign    
 | Rhino     
