@@ -54,4 +54,4 @@ area.
 
 <br>
 
-[PDF]({{ site.url }}/assets/TheLumnaire.pdf) 
+[get the PDF]({{ site.url }}/assets/TheLumnaire.pdf)

@@ -75,4 +75,4 @@ For younger people it could help prevent long term injuries or just make gardeni
 
 <br>
 
-PDF: [get the PDF]({{ site.url }}/assets/GardenKneeler.pdf) directly.
+[get the PDF]({{ site.url }}/assets/GardenKneeler.pdf) directly.
