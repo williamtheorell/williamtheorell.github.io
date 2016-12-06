@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The luminaire"
+title:  "The Luminaire"
 date:   2016-11-15 16:10:00
-preview: images/TheLumnaire/TL-1.png
+preview: images/TheLuminaire/TL-1.png
 ---
-![The Lumnaire 1]({{ site.url }}/images/TheLuminaire/TL-1.png)
+![The Luminaire 1]({{ site.url }}/images/TheLuminaire/TL-1.png)
 
 # Brief
 > Make a workbench luminaire for doing precis work like working with electronics.
