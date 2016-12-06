@@ -54,4 +54,4 @@ area.
 
 <br>
 
-Finally you can [get the PDF]({{ site.url }}/assets/TheLumnaire.pdf) directly.
+[PDF]({{ site.url }}/assets/TheLumnaire.pdf) 

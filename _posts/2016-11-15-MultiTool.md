@@ -86,4 +86,4 @@ The tool connects to the brand and you can clearly see how it belongs to the bik
 
 <br>
 
-Finally you can [get the PDF]({{ site.url }}/assets/MultiTool.pdf) directly.
+PDF: [get the PDF]({{ site.url }}/assets/MultiTool.pdf)
