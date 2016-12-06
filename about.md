@@ -30,12 +30,15 @@ Full time
 
 ## Skills
 
-| Software         |    | Languages        |
-|------------------|----|------------------|
-| Microsoft Office |    | Swedish (native) |
-| Photoshop        |    | English (fluent) |
-| Illustrator
-| Indesign    
-| Rhino     
-| 3D Studio Max
-| Keyshot render
+**Software**         
+Microsoft Office  
+Photoshop         
+Illustrator
+Indesign    
+Rhino     
+3D Studio Max
+Keyshot render
+
+**Languages**  
+Swedish (native)  
+English (fluent)
