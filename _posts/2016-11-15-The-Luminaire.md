@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Lumnaire"
+title:  "The luminaire"
 date:   2016-11-15 16:10:00
 preview: images/TheLumnaire/TL-1.png
 ---
-![The Lumnaire 1]({{ site.url }}/images/TheLumnaire/TL-1.png)
+![The Lumnaire 1]({{ site.url }}/images/TheLuminaire/TL-1.png)
 
 # Brief
 > Make a workbench luminaire for doing precis work like working with electronics.
@@ -12,21 +12,21 @@ preview: images/TheLumnaire/TL-1.png
 
 <br>
 
-![The Lumnaire 2]({{ site.url }}/images/TheLumnaire/TL-2.png)
+![The Luminaire 2]({{ site.url }}/images/TheLuminaire/TL-2.png)
 
 # Sketches and Models
 
-![The Lumnaire 3]({{ site.url }}/images/TheLumnaire/TL-3.png)
+![The Luminaire 3]({{ site.url }}/images/TheLuminaire/TL-3.png)
 
-![The Lumnaire 4]({{ site.url }}/images/TheLumnaire/TL-4.png)
+![The Luminaire 4]({{ site.url }}/images/TheLuminaire/TL-4.png)
 
 # Final Product
 
-![The Lumnaire 5]({{ site.url }}/images/TheLumnaire/TL-5.png)
+![The Luminaire 5]({{ site.url }}/images/TheLuminaire/TL-5.png)
 
 |
 :-----------------------------------------------------------:|:-----------------------------------------------------------:
-![The Lumnaire 6]({{ site.url }}/images/TheLumnaire/TL-6.png)|![The Lumnaire 7]({{ site.url }}/images/TheLumnaire/TL-7.png)
+![The Luminaire 6]({{ site.url }}/images/TheLuminaire/TL-6.png)|![The Luminaire 7]({{ site.url }}/images/TheLuminaire/TL-7.png)
 
 <br>
 
@@ -50,8 +50,8 @@ area.
 
 <br>
 
-![The Lumnaire 8]({{ site.url }}/images/TheLumnaire/TL-8.png)
+![The Luminaire 8]({{ site.url }}/images/TheLuminaire/TL-8.png)
 
 <br>
 
-[get the PDF]({{ site.url }}/assets/TheLumnaire.pdf)
+[get the PDF]({{ site.url }}/assets/TheLuminaire.pdf)
