@@ -14,7 +14,7 @@ william.theorell@gmail.com
 
 **2014 - 2017:** Bachelor, industrial design, School of Industrial Design, Lund University, Sweden.
 
-**2016:** Studing abroad, Industrial Design, School of Design, Georgia Institute of Technology, USA, One semester.
+**2016:** Studying abroad, Industrial Design, School of Design, Georgia Institute of Technology, USA, One semester.
 
 **2010 - 2013:** Technical program with focus on industrial  design, Thorildsplans gymnasium, Stockholm, Sweden.
 
@@ -36,7 +36,7 @@ Photoshop
 Illustrator
 Indesign    
 Rhino     
-3D Studio Max
+3D Studio Max  
 Keyshot render
 
 **Languages**  
